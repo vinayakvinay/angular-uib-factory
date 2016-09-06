@@ -1,4 +1,6 @@
-angular.module('MakeRoof').factory('UiFactory', UiFactory);
+angular.module('UiElements', [])
+.factory('UiFactory', UiFactory);
+
 UiFactory.$inject = ['$rootScope', '$uibModal', '$timeout'];
 
 function UiFactory($rootScope, $uibModal, $timeout) {
