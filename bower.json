@@ -1,0 +1,21 @@
+{
+  "name": "angular-uib-factory",
+  "authors": [
+    "Vinayak <vinaymvp612@gmail.com>"
+  ],
+  "description": "Reuse the Angular Ui elements",
+  "main": "",
+  "keywords": [
+    "angular",
+    "ui"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
