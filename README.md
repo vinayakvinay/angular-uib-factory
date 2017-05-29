@@ -6,5 +6,7 @@ Reuse Angular UI elements
 - Install via Bower: bower install angular-uib-factory
 
 
+- Ready to contribute?? Tweet me.
+
 
 ## Vinay, Tweet me @ vinaymvp612
